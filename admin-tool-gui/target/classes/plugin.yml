@@ -1,0 +1,9 @@
+name: admin-tool-gui
+version: '1.0'
+main: org.darbz.adminToolGui.AdminToolGui
+api-version: '1.21'
+commands:
+  admintools:
+    permission: op
+    description: AdminTools Command Gives You A List Of Things That You Can Manage Like Freezing Players Ect
+

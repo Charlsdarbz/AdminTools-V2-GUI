@@ -1,0 +1,6 @@
+org\darbz\adminToolGui\listeners\InventoryClick_Manager.class
+org\darbz\adminToolGui\commands\tabcompletor\main_tabcompletor.class
+org\darbz\adminToolGui\menus\Manager.class
+org\darbz\adminToolGui\menus\PlayerManager.class
+org\darbz\adminToolGui\commands\main_command.class
+org\darbz\adminToolGui\AdminToolGui.class
